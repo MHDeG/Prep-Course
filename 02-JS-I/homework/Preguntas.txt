@@ -1,0 +1,10 @@
+
+Variables: sirven para guardar en dato en un espacio de memoria, se referencian a traves de un nombre.
+
+Strings: es una cadena de texto entre comillas.
+
+Funciones (argumentos, `return`) : es un conjunto de instrucciones, realiza tareas puede devolver un valor a traves de la clausula return. Las funciones reciben argumentos.
+
+Declaraciones `if` ejecutan un tareas en forma condicional.
+
+Valores booleanos (true, false) devuelven un valor verdadero o falso, dependiendo de si se cumple una condicion.
