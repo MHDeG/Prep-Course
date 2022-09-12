@@ -1,0 +1,8 @@
+for:  es una sentencia que permite realizar reiteradas ejecuciones de comandos, hasta tanto se cumpla 
+la condición definida para su ejecución.
+
+`&&`, `||`, `!`: son signos condicionales que permiten comparar dos expresiones, que normalmente forman parte de sentencias. devuelve un valor booleano.
+`&&`: es la condición Y, entre 2 variables o una variable un string.
+`||`: es la condición O, entre 2 variables.
+`!`: es la condicion NO, entre 2 variables.
+
