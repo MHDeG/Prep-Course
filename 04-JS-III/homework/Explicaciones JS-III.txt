@@ -1,0 +1,2 @@
+Array: es un colección de datos, es decir una lista de elementos, 
+que puede conterner cualquier tipo de dato, inclusive funciones.
