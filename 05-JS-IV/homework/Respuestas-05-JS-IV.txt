@@ -1,0 +1,14 @@
+	Objetos: Son una colección de propiedades, es decir una estructura de datos que estan asocidos a un 
+    string.
+
+	Propiedades: es una caracteristica de un dato.
+
+	Métodos: es el equivalente a una funcion pero en el contexto de un objeto, es decir una propiedad que
+    contiene unteramente a una funcion, en estas circunstancia se llama metodo.
+
+	Bucle `for…in`:  devolverá todas las propiedades enumerables, incluidas aquellas con nombres no enteros
+    y aquellas que se heredan
+
+	Notación de puntos vs notación de corchetes: una notacion de punto devolvera al literal que contiene 
+    como propiedad, mientras que la notacion por corchete tratara al contenido de los corchetes como
+    una expresion.
